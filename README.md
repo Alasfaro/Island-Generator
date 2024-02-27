@@ -330,3 +330,5 @@ For a feature to be considered done it must be work without throwing any excepti
 | F53 | Accept help command line to view all possible options             | Omar      | 03/10/2023 | 03/10/2023 | D      |
 | F54 | Heatmap mode to visualize altitudes and humidity                                                          | Virochaan | 03/13/2023 |       03/26/2023     | D     |
 | F55 | Generated OBJ file shows altitudes                                                                        | Ibrahim   | 03/13/2023 | 03/26/2023 |D    |
+| F56 | Generate cities                                                                       | Omar   | 03/13/2023 | 03/26/2023 |D    |
+| F57 | Accept command line to choose number of cities                | Omar   | 03/24/2023 | 03/24/2023 | D      |
